@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Javes Agan Bastatas](banner.png)
 ### Hi there 👋
 
 <!--
