@@ -1,3 +1,4 @@
+![JavesBastatas](header.jpg "About me")
 ### Hi there 👋
 
 <!--
