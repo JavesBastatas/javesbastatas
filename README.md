@@ -1,4 +1,4 @@
-![JavesBastatas](header.jpg "About me")
+![JavesBastatas](header.gif "About me")
 ### Hi there 👋
 
 <!--
