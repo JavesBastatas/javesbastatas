@@ -1,6 +1,6 @@
 <p style="center">
 
-<img src="header.gif" alt="Javes Bastatas"/>
+<img src="header.gif" style="width: 100%" alt="Javes Bastatas"/>
 
 </p>
 
