@@ -27,7 +27,7 @@
 ![My Repository's Stats](https://github-readme-stats.vercel.app/api?username=JavesBastatas&show_icons=true)
 
 #### Contact Me
-![Discord](https://img.shields.io/badge/Digi%236688-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Digi%236688-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/user/720992701444784228)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 <!--
