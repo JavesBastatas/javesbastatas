@@ -9,7 +9,8 @@
 ![TimeZone](https://img.shields.io/badge/Time%20Zone-GMT%2B8-informational)
 ###### Pronounced as /Jāvs/. A teen programmer who always dwells in programming world.
 
-###### I'm efficiency-focused developer who is good at software architecture designs, game designing, and object-oriented programming.
+###### I'm efficiency-focused developer who is good at software architecture designs, game designing, and object-oriented programming. I only code in my freetime, working on small projects as I'm currently busy in my school life.
+
 
 #### Language & Tools
 
