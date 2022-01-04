@@ -11,6 +11,13 @@
 
 ###### I'm efficiency-focused developer who is good at software architecture designs, game designing, and object-oriented programming. I only code in my freetime, working on small projects as I'm currently busy in my school life.
 
+###### I'm here if you want my help like translating docs to tl (tagalog), code suggestions, code refactoring, etc. Just contact me below.
+
+- <sub>🔭 I’m currently working on ***Nothing*** </sub>
+- <sub> 🌱 I’m currently learning Typescript </sub>
+- <sub> 👯 I’m looking to collaborate on any project </sub>
+- <sub> 😄 Pronouns: He/him/his </sub>
+- <sub> ⚡ Fun fact: My mind is powered by coffee ☕ </sub>
 
 #### Language & Tools
 
@@ -35,12 +42,5 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
