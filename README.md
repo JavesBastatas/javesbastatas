@@ -1,6 +1,6 @@
 <p style="center">
 
-![JavesBastatas](header.gif "About me")
+<img src="header.gif" alt="Javes Bastatas"/>
 
 </p>
 
