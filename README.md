@@ -28,7 +28,7 @@
 
 #### Contact Me
 [![Discord](https://img.shields.io/badge/Digi%236688-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/720992701444784228)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:&#106;&#97;&#118;&#101;&#115;&#98;&#97;&#115;&#116;&#97;&#116;&#97;&#115;&#46;&#111;&#102;&#102;&#105;&#99;&#105;&#97;&#108;&#64;&#103;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;)
 ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
 <!--
 **JavesBastatas/javesbastatas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
